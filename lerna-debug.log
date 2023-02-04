@@ -1,6 +1,14 @@
-25 error TypeError: Cannot read properties of undefined (reading '@fortawesome/fontawesome-free')
-25 error     at H:\react-typescript\jbook\node_modules\@lerna\version\lib\update-lockfile-version.js:29:65
-25 error     at Array.reduce (<anonymous>)
-25 error     at H:\react-typescript\jbook\node_modules\@lerna\version\lib\update-lockfile-version.js:28:85
-25 error     at async Promise.all (index 0)
-25 error     at async H:\react-typescript\jbook\node_modules\p-pipe\index.js:12:19
+31 error Error: Command failed with exit code 1: npm install --package-lock-only --ignore-scripts
+31 error npm ERR! code E404
+31 error npm ERR! 404 Not Found - GET https://registry.npmjs.org/@jsnote-ehsafin%2flocal-client - Not found
+31 error npm ERR! 404
+31 error npm ERR! 404  '@jsnote-ehsafin/local-client@^2.0.0' is not in this registry.
+31 error npm ERR! 404 You should bug the author to publish it (or use the name yourself!)
+31 error npm ERR! 404
+31 error npm ERR! 404 Note that you can also install from a
+31 error npm ERR! 404 tarball, folder, http url, or git url.
+31 error
+31 error npm ERR! A complete log of this run can be found in:
+31 error npm ERR!     C:\Users\Safin Ahmed\AppData\Local\npm-cache\_logs\2023-02-04T06_34_38_776Z-debug.log
+31 error     at makeError (H:\react-typescript\jbook\node_modules\execa\lib\error.js:60:11)
+31 error     at handlePromise (H:\react-typescript\jbook\node_modules\execa\index.js:118:26)
