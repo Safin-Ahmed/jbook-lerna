@@ -1,0 +1,6 @@
+25 error TypeError: Cannot read properties of undefined (reading '@fortawesome/fontawesome-free')
+25 error     at H:\react-typescript\jbook\node_modules\@lerna\version\lib\update-lockfile-version.js:29:65
+25 error     at Array.reduce (<anonymous>)
+25 error     at H:\react-typescript\jbook\node_modules\@lerna\version\lib\update-lockfile-version.js:28:85
+25 error     at async Promise.all (index 0)
+25 error     at async H:\react-typescript\jbook\node_modules\p-pipe\index.js:12:19
