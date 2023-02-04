@@ -26,5 +26,5 @@
     "typescript": "^4.9.5"
   },
   "bin": "dist/index.js",
-  "gitHead": "322b8628667c88044da11a2205cb043d959f60f4"
+  "gitHead": "218ca930a2ac3845b9dd0557691b000a23f784fa"
 }
